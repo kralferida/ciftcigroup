@@ -4,7 +4,7 @@ export function HeroSection() {
   return (
     <section className="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden">
       <div className="absolute inset-0">
-        <Image src="/luxury-jewelry-store-elegant-showroom-gold-diamond.jpg" alt="METE GROUP Showroom" fill className="object-cover" priority />
+        <Image src="/luxury-jewelry-store-elegant-showroom-gold-diamond.jpg" alt="Çiftçi Group Showroom" fill className="object-cover" priority />
         <div className="absolute inset-0 bg-gradient-to-b from-background/80 via-background/70 to-background" />
       </div>
 

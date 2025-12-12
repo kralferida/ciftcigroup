@@ -15,10 +15,10 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "METE GROUP | Otomotiv & Kuyumculuk",
+  title: "Çiftçi Group | Otomotiv & Kuyumculuk",
   description:
-    "İstanbul merkezli lüks mücevherat, pırlanta, değerli taşlar, lüks saatler ve üst segment otomobillerde güvenilir adresiniz. METE GROUP ile kalite ve prestiji keşfedin.",
-  keywords: "mücevherat, pırlanta, altın, değerli taşlar, lüks saatler, lüks otomobiller, İstanbul, METE GROUP",
+    "İstanbul merkezli lüks mücevherat, pırlanta, değerli taşlar, lüks saatler ve üst segment otomobillerde güvenilir adresiniz. Çiftçi Group ile kalite ve prestiji keşfedin.",
+  keywords: "mücevherat, pırlanta, altın, değerli taşlar, lüks saatler, lüks otomobiller, İstanbul, Çiftçi Group",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "32x32" },

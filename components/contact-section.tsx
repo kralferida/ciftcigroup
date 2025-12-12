@@ -8,7 +8,7 @@ export function ContactSection() {
         <div className="relative w-full h-64 md:h-80 rounded-2xl overflow-hidden mb-16">
           <Image
             src="/luxury-diamond-jewelry-elegant-collection.jpg"
-            alt="METE GROUP Lüks Pırlanta Koleksiyonu"
+            alt="Çiftçi Group Lüks Pırlanta Koleksiyonu"
             fill
             className="object-cover"
           />
@@ -26,7 +26,7 @@ export function ContactSection() {
             Bizimle İletişime Geçin
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-12">
-            METE GROUP olarak, müşterilerimizle güçlü ve uzun vadeli ilişkiler kurmayı hedefliyoruz. Sorularınız,
+            Çiftçi Group olarak, müşterilerimizle güçlü ve uzun vadeli ilişkiler kurmayı hedefliyoruz. Sorularınız,
             talepleriniz veya iş birliği fırsatları için bizimle iletişime geçebilirsiniz.
           </p>
 
@@ -38,9 +38,9 @@ export function ContactSection() {
               <div className="text-center">
                 <h3 className="font-semibold text-foreground mb-1">Adres</h3>
                 <p className="text-sm text-muted-foreground">
-                  Büyükdere Caddesi, Mete Plaza No:118
+                  Kalpakçılar Caddesi No:10
                   <br />
-                  Zincirlikuyu – Beşiktaş / İstanbul
+                  Kapalıçarşı - Fatih / İstanbul
                   <br />
                   ZIP: 34126
                 </p>
@@ -53,7 +53,7 @@ export function ContactSection() {
               </div>
               <div className="text-center">
                 <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
-                <p className="text-muted-foreground">0212 233 44 55</p>
+                <p className="text-muted-foreground">0530 994 02 90</p>
               </div>
             </div>
 
@@ -63,7 +63,7 @@ export function ContactSection() {
               </div>
               <div className="text-center">
                 <h3 className="font-semibold text-foreground mb-1">E-posta</h3>
-                <p className="text-muted-foreground">info@metegroup.com.tr</p>
+                <p className="text-muted-foreground">info@ciftcigroup.com.tr</p>
               </div>
             </div>
           </div>

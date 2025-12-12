@@ -7,7 +7,7 @@ export function Footer() {
         <div className="grid md:grid-cols-3 gap-12 mb-12">
           <div>
             <Link href="/" className="flex flex-col mb-6">
-              <span className="text-2xl font-serif font-bold tracking-wider">METE GROUP</span>
+              <span className="text-2xl font-serif font-bold tracking-wider">Çiftçi Group</span>
               <span className="text-xs tracking-[0.3em] text-primary-foreground/60 uppercase">
                 Otomotiv & Kuyumculuk
               </span>
@@ -57,9 +57,9 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Kurumsal Adres</h3>
             <address className="text-sm text-primary-foreground/70 not-italic leading-relaxed">
-              Büyükdere Caddesi, Mete Plaza No:118
+              Kalpakçılar Caddesi No:10
               <br />
-              Zincirlikuyu – Beşiktaş / İstanbul
+              Kapalıçarşı - Fatih / İstanbul
               <br />
               ZIP: 34126
               <br />
@@ -70,7 +70,7 @@ export function Footer() {
 
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60">
-            © {new Date().getFullYear()} METE GROUP OTOMOTİV & KUYUMCULUK. Tüm hakları saklıdır.
+            © {new Date().getFullYear()}  Çiftçi Group OTOMOTİV & KUYUMCULUK. Tüm hakları saklıdır.
           </p>
           <div className="flex items-center gap-6">
             <Link

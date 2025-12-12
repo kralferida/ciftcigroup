@@ -1,16 +1,10 @@
 export function ManagementSection() {
   const executives = [
     {
-      name: "Mustafa Mete",
-      title: "Yönetim Kurulu Başkanı",
+      name: "Süleyman Çiftçi",
+      title: "Kurucu & Yönetim Kurulu Başkanı",
       description:
-        "METE GROUP'un kurucusu olan Mustafa Mete, kuyumculuk, altın ve lüks ticaret sektöründe 20 yılı aşkın tecrübeye sahiptir. Şirketin vizyonunu belirleyen ve tüm stratejik kararları yöneten isim olarak, METE GROUP'u bugünkü prestijli konumuna taşımıştır.",
-    },
-    {
-      name: "Rojin Mete",
-      title: "Yönetim ve Operasyon Sorumlusu",
-      description:
-        "Ailenin ikinci kuşak temsilcisi olan Rojin Mete, Nişantaşı Üniversitesi İşletme bölümünden mezun olmuştur. 2023 yılından itibaren şirkette aktif rol alan Rojin Mete, uluslararası operasyonlar, iş geliştirme ve marka konumlandırma süreçlerinde öncü bir rol üstlenmektedir.",
+        "Çiftçi Group'un kurucusu olan Süleyman Çiftçi, lüks otomobiller, elmaslar ve yüksek kaliteli mücevherat sektöründe 5+ yıllık deneyime sahiptir. Nişantaşı Üniversitesi Uluslararası Ticaret ve Lojistik (2015-2019) eğitimi almış olup, Ocak 2020'den bu yana satış yönetimi, tedarikçi müzakereleri, günlük operasyonların denetimi ve uluslararası markalarla ilişkilerin yürütülmesi konularında aktif olarak faaliyet göstermektedir.",
     },
   ]
 
@@ -30,10 +24,9 @@ export function ManagementSection() {
                 <p className="text-sm tracking-wide text-primary">{exec.title}</p>
               </div>
               <p className="text-muted-foreground leading-relaxed">{exec.description}</p>
-              {exec.name === "Rojin Mete" && (
+              {exec.name === "Süleyman Çiftçi" && (
                 <p className="mt-6 text-foreground font-medium italic border-l-2 border-primary pl-4">
-                  &ldquo;Yeni nesil yönetim anlayışını temsil eden Rojin Mete, markanın globalleşme sürecinde aktif rol
-                  almaktadır.&rdquo;
+                  &ldquo;Kalite, güven ve müşteri memnuniyeti odaklı yaklaşımıyla sektörde öncü bir konuma sahiptir.&rdquo;
                 </p>
               )}
             </div>

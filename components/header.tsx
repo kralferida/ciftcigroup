@@ -12,7 +12,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex flex-col">
-            <span className="text-2xl font-serif font-bold tracking-wider text-foreground">METE GROUP</span>
+            <span className="text-2xl font-serif font-bold tracking-wider text-foreground">Çiftçi Group</span>
             <span className="text-xs tracking-[0.3em] text-muted-foreground uppercase">Otomotiv & Kuyumculuk</span>
           </Link>
 

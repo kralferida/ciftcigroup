@@ -23,7 +23,7 @@ export function HistorySection() {
         <div className="max-w-4xl mx-auto mb-12">
           <p className="text-lg text-primary-foreground/80 leading-relaxed text-center">
             İstanbul, yüzyıllardır dünyanın en önemli kuyumculuk ticaret merkezlerinden biri olma özelliğini
-            korumaktadır. METE GROUP, bu köklü geleneğin modern temsilcisi olarak, aile değerleri ve profesyonel iş
+            korumaktadır. Çiftçi Group, bu köklü geleneğin modern temsilcisi olarak, aile değerleri ve profesyonel iş
             anlayışını harmanlayarak sektörde güvenilir bir isim olmayı başarmıştır.
           </p>
         </div>

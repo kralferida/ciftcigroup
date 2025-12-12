@@ -39,14 +39,14 @@ export function AboutSection() {
           </h2>
           <div className="space-y-6 text-muted-foreground leading-relaxed text-left">
             <p>
-              <strong className="text-foreground">METE GROUP OTOMOTİV & KUYUMCULUK</strong>, İstanbul merkezli, köklü
-              bir aile şirketi olarak lüks sektöründe seçkin bir konuma sahiptir. Premium müşteri kitlesine hizmet veren
-              yapımız, kalite, güven ve özel tasarım ürünlere odaklanan bir marka anlayışıyla hareket etmektedir.
+              <strong className="text-foreground">ÇİFTÇİ GROUP OTOMOTİV & KUYUMCULUK</strong>, İstanbul merkezli, köklü
+              bir aile şirketi olarak lüks sektöründe seçkin bir konuma sahiptir. 2020 yılından bu yana 5+ yıllık deneyimimizle
+              premium müşteri kitlesine hizmet veren yapımız, kalite, güven ve özel tasarım ürünlere odaklanan bir marka anlayışıyla hareket etmektedir.
             </p>
             <p>
-              Lüks kuyumculuk, pırlanta, ince işçilikli altın ürünleri, değerli taşlar, prestijli saat markaları ve üst
-              segment otomobiller; faaliyet alanlarımızın temelini oluşturmaktadır. Her bir ürün grubunda uluslararası
-              standartlara bağlı kalarak, müşterilerimize benzersiz bir deneyim sunmayı ilke edindik.
+              Lüks otomobiller, elmaslar ve yüksek kaliteli mücevherat; faaliyet alanlarımızın temelini oluşturmaktadır.
+              Satış yönetimi, tedarikçi müzakereleri, günlük operasyonların denetimi ve uluslararası markalarla ilişkilerin yürütülmesi
+              konularında uzmanlaşmış kadromuzla, her bir ürün grubunda uluslararası standartlara bağlı kalarak müşterilerimize benzersiz bir deneyim sunmayı ilke edinmiştir.
             </p>
           </div>
         </div>
